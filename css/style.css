@@ -245,3 +245,12 @@ textarea {
   }
 }
 
+body {
+  font-family: sans-serif;
+}
+
+main {
+  flex-direction: column;
+  max-width: 424px;
+  margin: 0 auto;
+}
